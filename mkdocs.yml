@@ -104,6 +104,8 @@ nav:
       - cs/computer_network(2025Fall)/about.md
     - 密码学原理:
       - cs/crypto/about.md
+    - 形式语言与自动机:
+      - cs/fla/about.md
   - 人工智能（脑科学与人工智能）:
     - ai/index.md
     - 计算方法:
