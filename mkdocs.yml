@@ -108,7 +108,8 @@ nav:
       - cs/fla/about.md
     - 问题求解:
       - 问题求解（一）（2025 秋）:
-        - cs/problem_solving_1(2025Fall)/about.md
+        - 课程介绍: cs/problem_solving_1(2025Fall)/about.md
+        - 集合论: cs/problem_solving_1(2025Fall)/set_theory.md
   - 人工智能（脑科学与人工智能）:
     - ai/index.md
     - 计算方法:
